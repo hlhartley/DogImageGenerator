@@ -1,0 +1,14 @@
+.Breed-container {
+  margin: 5px;
+  cursor: pointer;
+}
+
+.Breed-container:hover {
+  color: #0c388c;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #0c388c;
+}

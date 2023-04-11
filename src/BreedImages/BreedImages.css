@@ -1,0 +1,8 @@
+.BreedImages-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-flow: wrap;
+  width: 70vw;
+}

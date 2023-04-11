@@ -1,0 +1,6 @@
+.Breeds-container {
+  display: flex;
+  flex-direction: row;
+  width: 80vw;
+  flex-flow: wrap;
+}
