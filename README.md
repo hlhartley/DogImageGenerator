@@ -7,7 +7,7 @@ I created an app which allows users to click on a certain breed of dog and see a
 - React using class components
 - Fetch API
 
-# API Endpoints
+# Dog API & Endpoints
 
 https://dog.ceo/dog-api/documentation/
 
