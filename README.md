@@ -11,8 +11,8 @@ I created an app which allows users to click on a certain breed of dog and see a
 
 https://dog.ceo/dog-api/documentation/
 
-### Website Link:
-[Dog Image Generator](http://the-greeda.s3-website.ap-northeast-2.amazonaws.com/)
+### App Link:
+[Dog Image Generator]([http://the-greeda.s3-website.ap-northeast-2.amazonaws.com/](http://dog-image-generator.s3-website-us-west-2.amazonaws.com/))
 
 ### Screenshots:
 ![Screenshot](dog-image-generator-screenshot.png)
