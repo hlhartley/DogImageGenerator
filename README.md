@@ -1,6 +1,6 @@
 # Dog Image Generator
 
-I created a dog image generator in React using class components and making fetch calls to the Dog API
+I created an app which allows users to click on a certain breed of dog and see a collage of related dog images. I built it in React using class components and implemented fetch calls using the Dog API.
 
 ### Website Link:
 [Dog Image Generator](http://the-greeda.s3-website.ap-northeast-2.amazonaws.com/)
