@@ -2,12 +2,12 @@
 
 I created an app which allows users to click on a certain breed of dog and see a collage of related dog images. I built it in React using class components and implemented fetch calls using the Dog API.
 
-## Technologies
+### Technologies
 
 - React using class components
 - Fetch API
 
-## Dog API & Endpoints
+### Dog API & Endpoints
 
 https://dog.ceo/dog-api/documentation/
 
