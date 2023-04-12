@@ -12,7 +12,7 @@ I created an app which allows users to click on a certain breed of dog and see a
 https://dog.ceo/dog-api/documentation/
 
 ### App Link:
-[Dog Image Generator](http://dog-image-generator.s3-website-us-west-2.amazonaws.com/)
+http://dog-image-generator.s3-website-us-west-2.amazonaws.com/
 
 ### Screenshots:
 ![Screenshot](dog-image-generator-screenshot.png)
